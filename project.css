@@ -12,4 +12,5 @@ td{
     height: 20px;
     border: 1px solid lightblue;
     text-align: center;
+    filter: brightness(1);
 }
